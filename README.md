@@ -54,6 +54,12 @@ BM25 excels at **short, sparse queries**, making it ideal for lyric-based search
 5. Top-K matches are returned with confidence scores  
 
 
+## Project Screenshots
+
+![Home Page](https://github.com/analystjoypaul/Spotify-Lyric-Search/blob/master/live-demo.png)
+
+
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/<analystjoypaul>/spotify-lyric-search.git
